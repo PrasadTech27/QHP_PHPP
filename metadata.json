@@ -1,0 +1,6 @@
+{
+  "name": "QHP Services - LAMP Stack Website",
+  "description": "A full-featured LAMP stack (Linux, Apache/Nginx, MariaDB/MySQL, PHP) web portal for Quick Helping Partner services in Andhra Pradesh.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

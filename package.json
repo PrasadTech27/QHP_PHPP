@@ -1,0 +1,11 @@
+{
+  "name": "qhp-superapp-lamp",
+  "version": "1.0.0",
+  "description": "Quick Helping Partner LAMP stack website",
+  "private": true,
+  "scripts": {
+    "start": "service mariadb start && php -S 0.0.0.0:3000 router.php",
+    "build": "echo 'LAMP website ready'"
+  },
+  "dependencies": {}
+}
